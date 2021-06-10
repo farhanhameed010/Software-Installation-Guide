@@ -1,4 +1,4 @@
-# Jenkins Master And Slave Installtion Guide
+# Jenkins Master And Slave Installation Guide
 
 ## Jenkins Master Instance:-  
 Install Java 1.8 and Jenkins Both
